@@ -233,6 +233,7 @@ export default {
 	flex-direction: row;
 	flex-wrap: wrap;
 	max-width: 800px;
+	background-color: var(--color-main-background);
 
 	&__date-selection {
 		display: flex;
